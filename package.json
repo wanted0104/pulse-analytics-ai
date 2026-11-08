@@ -1,6 +1,6 @@
 {
   "name": "pulse-analytics-ai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "High-performance agentic telemetry and autonomous LLM cost tracking for Next.js and FastAPI",
   "author": "O'Neil <oneilcodes+pulse@gmail.com>",
   "license": "MIT",
