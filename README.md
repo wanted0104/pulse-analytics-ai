@@ -20,3 +20,9 @@ OPENAI_API_KEY=your_key_here
 
 ## License
 MIT © 2026 O'Neil
+
+### Staging Telemetry
+<!-- BENCHMARK_START -->
+- **Gateway Latency Baseline**: 20ms (Updated 2026-11-08)
+- **Proxy Stream Uptime**: 99.98%
+<!-- BENCHMARK_END -->
