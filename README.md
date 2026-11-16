@@ -23,6 +23,6 @@ MIT © 2026 O'Neil
 
 ### Staging Telemetry
 <!-- BENCHMARK_START -->
-- **Gateway Latency Baseline**: 21ms (Updated 2026-11-14)
+- **Gateway Latency Baseline**: 25ms (Updated 2026-11-16)
 - **Proxy Stream Uptime**: 99.98%
 <!-- BENCHMARK_END -->
